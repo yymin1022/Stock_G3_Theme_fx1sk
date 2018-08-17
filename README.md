@@ -1,4 +1,4 @@
-# /*'Your warranty is now void*'/
+# /*Your warranty is now void*/
 # LG G3 Theme Rom for LG Optimus LTE III (based on Stock 4.4.2 f260s20f)
 # LG G3 테마 포팅롬 for LG 옵티머스 LTE III (LG 순정 4.4.2 f260s20f 펌웨어 기반)
 ## 본 자료는  LG전자가 2014년 5월 배포한 f260s20f 펌웨어를 기반으로 LG G3의 펌웨어를 일부 포팅한 자료입니다. 일부 기능은 동작하지 않을 수 있습니다.
