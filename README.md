@@ -1,4 +1,4 @@
-﻿# /*Your warranty is now void*/
+# /*Your warranty is now void*/
 
 # LG G3  스타일 롬 for LG 옵티머스 LTE III (LG 순정 4.4.2 f260s20f 펌웨어 기반)
 
@@ -18,6 +18,10 @@
 
 ## 개발자 정보 || Developer Info
 
-### 성보고등학교 2016 입헉생 유용민
+### 성보고등학교 2016 입학생 유용민
+
+### 개발 기간 || Developed at
+
+> 2016년 3월 ~ 2016년 6월 || March 2016 ~ June 2016
 
 ### KR Sungbo High School Yongmin Yoo (entered 2016)
